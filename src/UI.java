@@ -1,5 +1,3 @@
-package application;
-
 import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
